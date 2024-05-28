@@ -7,8 +7,6 @@ The primary source of data used here is Data Sale.
 ## Tools Used
 -Ms Excel for Data Cleaning [Download here](https://microsft.com)
 
-![](sqlcode.png)
-
 ![](dashboard.png)
 
 ```
