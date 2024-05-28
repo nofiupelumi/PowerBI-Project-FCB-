@@ -9,8 +9,13 @@ The primary source of data used here is Data Sale.
 
 ![](sqlcode.png)
 
+![](dashboard.png)
+
 ```
 Google Query Sheet
 SELECT *FROM TABLE
 WHERE CONDITION = NET
 ```
+| Heading1 | Heading2 | Heading3 |
+|----------|----------|----------|
+| Data1    | Data2    | Data3    |
