@@ -1,8 +1,10 @@
-# PowerBI-Project-FCB-
+# PowerBI-Project-FCB
 Future Clan Bootcamp Projects
-##Data Sources
+
+## Data Sources
 The primary source of data used here is Data Sale.
-##Tools Used
+
+## Tools Used
 -Ms Excel for Data Cleaning [Download here](https://microsft.com)
 
 ```
