@@ -7,7 +7,7 @@ The primary source of data used here is Data Sale.
 ## Tools Used
 -Ms Excel for Data Cleaning [Download here](https://microsft.com)
 
-![](Screen Shot 2024-05-28 at 06.13.53.png)
+![](sqlcode.png)
 
 ```
 Google Query Sheet
